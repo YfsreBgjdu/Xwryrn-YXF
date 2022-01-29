@@ -1,5 +1,5 @@
 {
-    "name": "XrayHeroku",
+    "name": "Xwryrn-YXF",
     "description": "xray websocket proxy on heroku",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID acts as the path and account password of each configuration. It is recommended to modify and save it properly. UUID website can be generated: https://www.uuidgenerator.net",
-            "value": "7b38971d-dece-453a-a5bf-100faa095a49"
+            "value": "b46ebb30-a6e2-4522-b43f-02566d74866d"
         },
         "CADDYIndexPage": {
             "description": "CADDYIndexPage",
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/AGWRI/XrayHeroku",
-    "repository": "https://github.com/AGWRI/XrayHeroku",
+    "website": "https://github.com/YfsreBgjdu/Xwryrn-YXF",
+    "repository": "https://github.com/YfsreBgjdu/Xwryrn-YXF",
     "stack": "container"
 }
